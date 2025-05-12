@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a8146ecf41c9304cbc57f8f8718b589, type: 3}
+  m_Name: 34
+  m_EditorClassIdentifier: 
+  IdUnico: 34
+  NombreCarta: Encuesta
+  CostoPoderPolitico: 2
+  Influencia: 0
+  Resistencia: 0
+  Faccion: Neutral
+  TipoCarta: Apoyo
+  Descripcion: "Al inicio de tu turno, nombra un tipo de carta (Pol\xEDtico, Acci\xF3n,
+    Apoyo, Evento). \r\nRevela la carta superior de tu mazo. Si es del tipo nombrado,
+    robas esa carta"
+  Rareza: Rara
+  TieneFueros: 0
+  AccionInmediata: 0
+  TieneArrollar: 0
+  Ilustracion: {fileID: 21300000, guid: 5a0581042af252e44af662c2a442e092, type: 3}
+  effectType: 0
+  effectAmount: 0
+  ParamCartasARobar: 0
+  "ParamDa\xF1o": 0
+  ParamCuracion: 0
+  ParamReduccionDeCosto: 0
+  ParamDuracionTurnos: 0

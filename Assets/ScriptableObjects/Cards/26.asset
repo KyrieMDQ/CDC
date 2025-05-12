@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a8146ecf41c9304cbc57f8f8718b589, type: 3}
+  m_Name: 26
+  m_EditorClassIdentifier: 
+  IdUnico: 26
+  NombreCarta: Arca
+  CostoPoderPolitico: 4
+  Influencia: 1
+  Resistencia: 5
+  Faccion: Socialismo
+  TipoCarta: Politico
+  Descripcion: Al inicio de tu turno, ganas 3 de Dinero.
+  Rareza: Comun
+  TieneFueros: 0
+  AccionInmediata: 0
+  TieneArrollar: 0
+  Ilustracion: {fileID: 21300000, guid: acd018d346d7d774ba1309d610cc015b, type: 3}
+  effectType: 9
+  effectAmount: 3
+  ParamCartasARobar: 0
+  "ParamDa\xF1o": 0
+  ParamCuracion: 0
+  ParamReduccionDeCosto: 0
+  ParamDuracionTurnos: 1
+  ParamDineroGanado: 0
